@@ -1,0 +1,2 @@
+org.springframework.boot.env.EnvironmentPostProcessor=com.learn.service.env.EnvironmentPostConfig
+org.springframework.web.servlet.config.annotation.WebMvcConfigurer=com.learn.service.interceptor.AppConfigurer
